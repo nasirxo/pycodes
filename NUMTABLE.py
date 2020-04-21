@@ -19,3 +19,5 @@ while True:
     n = input("Enter Number : ")
 
     table(int(n))
+NUMTABLE.py
+
